@@ -6,7 +6,7 @@ It also is planned to support a dark theme to ensure that the interface remains 
 **Features**
 * Tea Selection: Choose your preferred tea type from a drop-down list.
 * Brew Recommendations: View recommended steeping times and boiling temperatures for each tea.
-Countdown Timer: A built-in timer that counts down from the recommended steeping time.
-Dark Theme Support: Custom styling ensures that the app remains readable on dark backgrounds.
-Customizable: Easily add more tea types or modify the existing settings by updating the tea_data dictionary.
+* Countdown Timer: A built-in timer that counts down from the recommended steeping time.
+* Dark Theme Support (planned): Custom styling ensures that the app remains readable on dark backgrounds.
+* Customizable: Easily add more tea types or modify the existing settings by updating the tea_data dictionary.
 
