@@ -1,4 +1,5 @@
 **Tea Timer**
+
 A simple desktop application built with Python's Tkinter library. 
 The app helps you brew the perfect cup of tea by offering a selection of tea types, displaying recommended steeping times and boiling temperatures, and providing a built-in countdown timer. 
 It also is planned to support a dark theme to ensure that the interface remains clear and readable in low-light environments.
